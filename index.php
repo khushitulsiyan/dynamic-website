@@ -138,7 +138,7 @@
 
                                                      <div class="col-lg-4 col-md-4 col-12">
                                                          <div class="card" >
-                  <img class="card-img-top" src="images/tea.webp" alt="Card image">
+                  <img class="card-img-top" src="images/tea.jpg" alt="Card image">
                   <div class="card-body">
                     <h4 class="card-title">Tea</h4>
                     <p class="card-text">There is no drink as refreshing as tea.</p>
@@ -151,7 +151,7 @@
 
                                                               <div class="col-lg-4 col-md-4 col-12">
                                                              <div class="card">
-                  <img class="card-img-top" src="images/muffin4.jpg" alt="Card image">
+                  <img class="card-img-top" src="images/muffin.jpg" alt="Card image">
                   <div class="card-body">
                     <h4 class="card-title">Breads</h4>
                     <p class="card-text">You don't need any occasion for sweets.</p>
@@ -172,6 +172,42 @@
                                     </section>
 
 
+                                
+                                
+                                
+                                 <section class="my-5">
+                            <div class="py-5">
+
+                                <h2 class="text-center">GALLERY</h2>
+                                     </div>
+                                     
+                                                     
+                                     <div class="container-fluid">
+                                         <div class="row">
+                                             <div class="col-lg-4 col-md-4 col-12">
+                                             <img src="images/coffee-mug-1493946797-1538791870.jpg" class="img-fluid pb-3">
+                                                 
+                                             </div>
+                                             
+                                               <div class="col-lg-4 col-md-4 col-12">
+                                             <img src="images/coffee-mug-1493946797-1538791870.jpg" class="img-fluid pb-3">
+                                                 
+                                             </div>
+                                             
+                                             
+                                               <div class="col-lg-4 col-md-4 col-12">
+                                             <img src="images/coffee-mug-1493946797-1538791870.jpg" class="img-fluid pb-3">
+                                                 
+                                             </div>
+                                         </div>
+                                     </div>
+                                     
+                                     
+                                     
+                                     
+                                     
+                                     
+                                </section>
 
 
 
